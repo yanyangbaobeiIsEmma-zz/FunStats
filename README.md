@@ -4,5 +4,5 @@ which involved so many proofs so I forgot to enjoy the beauty sides of some very
 Now I began to collect and share some very interesting knowledges of statistics.
 
 ### [Box-Muller Transformation](https://en.wikipedia.org/wiki/Box–Muller_transform)
-### [simple AUC caculation in python](https://github.com/yanyangbaobeiIsEmma/FunStats/auc.py) 
+### [simple AUC caculation in python](https://github.com/yanyangbaobeiIsEmma/FunStats/blob/master/auc.py) 
 
