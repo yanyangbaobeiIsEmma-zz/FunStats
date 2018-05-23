@@ -5,4 +5,6 @@ Now I began to collect and share some very interesting knowledges of statistics.
 
 ### [Box-Muller Transformation](https://en.wikipedia.org/wiki/Box–Muller_transform)
 ### [simple AUC caculation in python](https://github.com/yanyangbaobeiIsEmma/FunStats/blob/master/auc.py) 
+#### AUC paradox:
+
 
