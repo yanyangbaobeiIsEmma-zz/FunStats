@@ -2,6 +2,9 @@
 # input: true labels, predicted scores
 # label: 1 - positivel; 0 - negative
 
+### THIS AUC FUNCTION IS TOO NAIVE, ONLY FOR WITHOUT TIE SCORES IN DIFFERENT LABELS SCENARIOS.... TRY USE 
+### http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html INSTEAD
+
 import numpy as np
 
 def auc(labels, scores, posLabel = 1):
